@@ -17,14 +17,14 @@
     /* border: dotted rgb(0, 4, 255) 3px; */
     width: 100%;
 
-    display: flex;
+    /* display: flex;
     align-items: start;
     background-image: url(./images/foto1.svg) ;  
     background-repeat:no-repeat; 
     background-size: cover;
     background-position: center;
     height:74vh ;
-    background-color: #A78D75;
+    background-color: #A78D75; */
 }
 
 .header img{
